@@ -22,4 +22,5 @@ body{
     font-family: var(--fonte);
     font-size: 1rem;
     font-weight: 400;
+    width: 100%;
 }
