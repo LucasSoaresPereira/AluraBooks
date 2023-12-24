@@ -145,7 +145,7 @@
         align-items: center;
         font-size: 1.25rem;
         text-decoration: none;
-        color: purple;
+        color: var(--preto);
     }
     .cabecalho{
         padding: 0 2em;
